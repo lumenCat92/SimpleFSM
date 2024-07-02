@@ -1,0 +1,11 @@
+{
+  "name": "com.lumencat92.simplefsm",
+  "version": "1.0.0",
+  "displayName": "SimpleFSM",
+  "description": "simpleFSM",
+  "unity": "2022.2",
+  "author": {
+    "name": "LumenCat",
+    "email": "LumenCat@gmail.com"
+  }
+}
